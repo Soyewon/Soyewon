@@ -18,17 +18,6 @@ C++ 알고리즘 스터디 SolveGuys (2022.06-)
 
 홍익대학교 컴퓨터공학과(2019.03-)
 
-[Projects]
-
-<Track 1> 프로듀서-보컬 매칭 플랫폼 웹 서비스(2022.12-2023.02)
-
-
-인턴 참여 프로젝트 Meemz 자습실-Unity Project(2022.01-2022.03)
-
-MyBenefit 외주-Unity Project(2021.06-2022.02)
-
-Kart Rider-Unity Project(2021.09-2021.11)
-
 
 
 
