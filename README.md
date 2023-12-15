@@ -1,7 +1,6 @@
 <div align="center">
   
 ### **_Hi, I'm Yewon_** 👋 
---
 
 
 [Activities]
